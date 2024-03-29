@@ -119,6 +119,11 @@ main strong {
     padding: 2px 5px;
     border-radius: 5px;
 }
+
+main img {
+    width: 100%;
+}
+
 main img.peq {
     max-width: 350px;
     display: block;
